@@ -1,0 +1,26 @@
+﻿@{
+    Layout = null;
+}
+@model MvcApplication4.Models.UserDetails
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+</head>
+<body>
+    <div>
+        @Html.ValidationMessage("CredentialError", new {style="color:red;" })
+        @using (Html.BeginForm("DoLogin", "Authentication", FormMethod.Post)) { 
+            @Html.LabelFor(c=>c.UserName)
+            @Html.TextBoxFor(x=>x.UserName)
+            @Html.ValidationMessageFor(x => x.UserName)
+            <br />
+            @Html.LabelFor(c => c.Password)
+            @Html.TextBoxFor(x => x.Password)
+            <br />
+            <input type="submit" name="BtnSubmit" value="Login" />
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/MvcApplication4_deploy" />
+  <setParameter name="ApplicationServices-Web.config Connection String" value="data source=.\SQLEXPRESS;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnetdb.mdf;User Instance=true" />
+  <setParameter name="myDB-Web.config Connection String" value="server= 192.168.0.68\sql2008;database=Person;uid=sa;pwd=123" />
+</parameters>

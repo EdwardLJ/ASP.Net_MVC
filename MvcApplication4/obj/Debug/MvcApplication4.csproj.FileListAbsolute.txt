@@ -1,0 +1,9 @@
+E:\c#workspace\MvcApplication4\MvcApplication4\bin\MvcApplication4.dll
+E:\c#workspace\MvcApplication4\MvcApplication4\bin\MvcApplication4.pdb
+E:\c#workspace\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.dll
+E:\c#workspace\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.pdb
+E:\c#workspace\MvcApplication4\MvcApplication4\bin\EntityFramework.dll
+E:\c#workspace\MvcApplication4\MvcApplication4\bin\EntityFramework.SqlServer.dll
+E:\c#workspace\MvcApplication4\MvcApplication4\bin\EntityFramework.xml
+E:\c#workspace\MvcApplication4\MvcApplication4\bin\EntityFramework.SqlServer.xml
+E:\c#workspace\MvcApplication4\MvcApplication4\obj\Debug\MvcApplication4.csprojResolveAssemblyReference.cache
